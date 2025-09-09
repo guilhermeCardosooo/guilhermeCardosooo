@@ -78,4 +78,4 @@
 
 <p align="center"><strong>✨ Sempre aprendendo, sempre criando!</strong></p>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHl5enlpOG9kN2lkbjQ0cHp2cDNubHpnMnFhYXh0cXY5dWtjbDd5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EXRpWBOnVUR20KpFdM/giphy.gif" width="100%" alt="code gif" />
+<img src="1.gif" width="100%" alt="code gif" />

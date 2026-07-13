@@ -12,8 +12,6 @@
   </p>
 </div>
 
----
-
 <h2 style="color: #58a6ff; text-align: center;">⚙️ Minha Abordagem e Engenharia</h2>
 
 <table style="width: 100%; border-collapse: collapse; border: none; margin-top: 20px;">
@@ -33,8 +31,6 @@
   </tr>
 </table>
 
----
-
 <h2 style="color: #58a6ff; text-align: center; margin-top: 40px;">🧪 Conhecimento Avançado & Pesquisa</h2>
 
 <div style="background-color: #161b22; padding: 25px; border-radius: 12px; border: 1px solid #30363d; margin: 0 10px;">
@@ -49,8 +45,6 @@
   </ul>
 </div>
 
----
-
 <h2 style="color: #58a6ff; text-align: center; margin-top: 40px;">🛠️ Habilidades Técnicas</h2>
 
 <div align="center" style="margin-top: 20px;">
@@ -63,8 +57,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </div>
-
----
 
 <h2 style="color: #58a6ff; text-align: center; margin-top: 40px;">📫 Contato</h2>
 <p align="center" style="color: #8b949e; margin-bottom: 20px;">Sinta-se à vontade para se conectar profissionalmente ou propor novos desafios técnicos:</p>

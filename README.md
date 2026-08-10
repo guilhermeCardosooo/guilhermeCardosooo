@@ -8,7 +8,7 @@
 
 <div style="background-color: #0d1117; padding: 30px; border-radius: 12px; margin: 20px 0; border: 1px solid #30363d; text-align: center;">
   <p style="font-size: 1.1em; line-height: 1.6; color: #adbac7; margin: 0;">
-    Sou um desenvolvedor focado na construção de sistemas eficientes e de alta performance. Iniciei minha trajetória na programação aos 15 anos com Pawn (SA-MP) e consolidei o ecossistema <b>C/C++ como minha principal especialidade técnica</b>, dominando conceitos de gerenciamento de memória e arquitetura de software. Atuo também na entrega ágil de soluções utilizando <b>TypeScript/JavaScript</b> e <b>Python</b>, mantendo meu aprendizado contínuo focado na plataforma <b>C#</b>.
+    Sou um desenvolvedor focado na construção de sistemas eficientes, escaláveis e de alta performance. Iniciei minha trajetória na programação aos 15 anos com Pawn (SA-MP) e, desde então, consolidei o ecossistema <b>C/C++ como minha principal especialidade técnica</b>, desenvolvendo sólidos conhecimentos em gerenciamento de memória, estruturas de dados e arquitetura de software. Também possuo experiência no desenvolvimento de aplicações utilizando <b>TypeScript/JavaScript</b> e mantenho meu aprendizado contínuo voltado à plataforma <b>Java</b>, ampliando minha atuação no desenvolvimento de sistemas backend.
   </p>
 </div>
 
